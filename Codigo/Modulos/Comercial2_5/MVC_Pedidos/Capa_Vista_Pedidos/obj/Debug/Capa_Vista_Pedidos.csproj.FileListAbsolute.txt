@@ -1,0 +1,8 @@
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Pedidos\Capa_Vista_Pedidos\bin\Debug\Capa_Vista_Pedidos.dll
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Pedidos\Capa_Vista_Pedidos\bin\Debug\Capa_Vista_Pedidos.pdb
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Pedidos\Capa_Vista_Pedidos\obj\Debug\Capa_Vista_Pedidos.csproj.AssemblyReference.cache
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Pedidos\Capa_Vista_Pedidos\obj\Debug\Capa_Vista_Pedidos.Frm_Pedidos.resources
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Pedidos\Capa_Vista_Pedidos\obj\Debug\Capa_Vista_Pedidos.csproj.GenerateResource.cache
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Pedidos\Capa_Vista_Pedidos\obj\Debug\Capa_Vista_Pedidos.csproj.CoreCompileInputs.cache
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Pedidos\Capa_Vista_Pedidos\obj\Debug\Capa_Vista_Pedidos.dll
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Pedidos\Capa_Vista_Pedidos\obj\Debug\Capa_Vista_Pedidos.pdb

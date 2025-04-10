@@ -1,0 +1,8 @@
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Cotizacion\Capa_Vista_Cotizacion\bin\Debug\Capa_Vista_Cotizacion.dll
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Cotizacion\Capa_Vista_Cotizacion\bin\Debug\Capa_Vista_Cotizacion.pdb
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Cotizacion\Capa_Vista_Cotizacion\obj\Debug\Capa_Vista_Cotizacion.csproj.AssemblyReference.cache
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Cotizacion\Capa_Vista_Cotizacion\obj\Debug\Capa_Vista_Cotizacion.Frm_Cotizacion.resources
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Cotizacion\Capa_Vista_Cotizacion\obj\Debug\Capa_Vista_Cotizacion.csproj.GenerateResource.cache
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Cotizacion\Capa_Vista_Cotizacion\obj\Debug\Capa_Vista_Cotizacion.csproj.CoreCompileInputs.cache
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Cotizacion\Capa_Vista_Cotizacion\obj\Debug\Capa_Vista_Cotizacion.dll
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Cotizacion\Capa_Vista_Cotizacion\obj\Debug\Capa_Vista_Cotizacion.pdb

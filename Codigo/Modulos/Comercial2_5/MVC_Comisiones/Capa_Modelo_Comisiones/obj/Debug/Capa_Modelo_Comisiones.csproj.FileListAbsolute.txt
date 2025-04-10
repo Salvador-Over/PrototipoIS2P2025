@@ -1,0 +1,6 @@
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Comisiones\Capa_Modelo_Comisiones\bin\Debug\Capa_Modelo_Comisiones.dll
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Comisiones\Capa_Modelo_Comisiones\bin\Debug\Capa_Modelo_Comisiones.pdb
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Comisiones\Capa_Modelo_Comisiones\obj\Debug\Capa_Modelo_Comisiones.csproj.AssemblyReference.cache
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Comisiones\Capa_Modelo_Comisiones\obj\Debug\Capa_Modelo_Comisiones.csproj.CoreCompileInputs.cache
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Comisiones\Capa_Modelo_Comisiones\obj\Debug\Capa_Modelo_Comisiones.dll
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Comisiones\Capa_Modelo_Comisiones\obj\Debug\Capa_Modelo_Comisiones.pdb

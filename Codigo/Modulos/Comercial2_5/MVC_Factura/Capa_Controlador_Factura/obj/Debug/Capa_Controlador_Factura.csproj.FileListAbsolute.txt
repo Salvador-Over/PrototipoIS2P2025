@@ -1,0 +1,6 @@
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Factura\Capa_Controlador_Factura\bin\Debug\Capa_Controlador_Factura.dll
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Factura\Capa_Controlador_Factura\bin\Debug\Capa_Controlador_Factura.pdb
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Factura\Capa_Controlador_Factura\obj\Debug\Capa_Controlador_Factura.csproj.AssemblyReference.cache
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Factura\Capa_Controlador_Factura\obj\Debug\Capa_Controlador_Factura.csproj.CoreCompileInputs.cache
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Factura\Capa_Controlador_Factura\obj\Debug\Capa_Controlador_Factura.dll
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Factura\Capa_Controlador_Factura\obj\Debug\Capa_Controlador_Factura.pdb

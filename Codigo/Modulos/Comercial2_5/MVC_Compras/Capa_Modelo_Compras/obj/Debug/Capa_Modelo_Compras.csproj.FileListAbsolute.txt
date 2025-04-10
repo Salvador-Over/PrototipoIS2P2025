@@ -1,0 +1,6 @@
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Compras\Capa_Modelo_Compras\bin\Debug\Capa_Modelo_Compras.dll
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Compras\Capa_Modelo_Compras\bin\Debug\Capa_Modelo_Compras.pdb
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Compras\Capa_Modelo_Compras\obj\Debug\Capa_Modelo_Compras.csproj.AssemblyReference.cache
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Compras\Capa_Modelo_Compras\obj\Debug\Capa_Modelo_Compras.csproj.CoreCompileInputs.cache
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Compras\Capa_Modelo_Compras\obj\Debug\Capa_Modelo_Compras.dll
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Compras\Capa_Modelo_Compras\obj\Debug\Capa_Modelo_Compras.pdb

@@ -1,0 +1,9 @@
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\Cotizacion\Capa_Modelo_Cotizacion\bin\Debug\Capa_Modelo_Cotizacion.dll
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\Cotizacion\Capa_Modelo_Cotizacion\bin\Debug\Capa_Modelo_Cotizacion.pdb
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\Cotizacion\Capa_Modelo_Cotizacion\bin\Debug\Capa_Modelo_Seguridad.dll
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\Cotizacion\Capa_Modelo_Cotizacion\bin\Debug\Capa_Modelo_Seguridad.pdb
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\Cotizacion\Capa_Modelo_Cotizacion\obj\Debug\Capa_Modelo_Cotizacion.csproj.AssemblyReference.cache
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\Cotizacion\Capa_Modelo_Cotizacion\obj\Debug\Capa_Modelo_Cotizacion.csproj.CoreCompileInputs.cache
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\Cotizacion\Capa_Modelo_Cotizacion\obj\Debug\Capa_Modelo_Cotizacion.csproj.CopyComplete
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\Cotizacion\Capa_Modelo_Cotizacion\obj\Debug\Capa_Modelo_Cotizacion.dll
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\Cotizacion\Capa_Modelo_Cotizacion\obj\Debug\Capa_Modelo_Cotizacion.pdb

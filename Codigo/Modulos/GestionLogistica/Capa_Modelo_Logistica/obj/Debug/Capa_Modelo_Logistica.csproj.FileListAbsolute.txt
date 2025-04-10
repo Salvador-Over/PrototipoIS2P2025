@@ -1,0 +1,6 @@
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\GestionLogistica\Capa_Modelo_Logistica\bin\Debug\Capa_Modelo_Logistica.dll
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\GestionLogistica\Capa_Modelo_Logistica\bin\Debug\Capa_Modelo_Logistica.pdb
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\GestionLogistica\Capa_Modelo_Logistica\obj\Debug\Capa_Modelo_Logistica.csproj.AssemblyReference.cache
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\GestionLogistica\Capa_Modelo_Logistica\obj\Debug\Capa_Modelo_Logistica.csproj.CoreCompileInputs.cache
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\GestionLogistica\Capa_Modelo_Logistica\obj\Debug\Capa_Modelo_Logistica.dll
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\GestionLogistica\Capa_Modelo_Logistica\obj\Debug\Capa_Modelo_Logistica.pdb

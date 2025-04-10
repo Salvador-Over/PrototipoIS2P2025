@@ -1,0 +1,1 @@
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Cuentas Corrientes2_5\Modulo-Transacciones\Modulo-Transacciones\TransaccionesClientes\CapaVista_AndresVeron\obj\Debug\CapaVista_AndresVeron.csproj.AssemblyReference.cache

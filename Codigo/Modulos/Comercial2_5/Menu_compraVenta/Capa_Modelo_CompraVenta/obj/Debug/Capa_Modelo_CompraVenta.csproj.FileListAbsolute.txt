@@ -1,0 +1,6 @@
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\Menu_compraVenta\Capa_Modelo_CompraVenta\bin\Debug\Capa_Modelo_CompraVenta.dll
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\Menu_compraVenta\Capa_Modelo_CompraVenta\bin\Debug\Capa_Modelo_CompraVenta.pdb
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\Menu_compraVenta\Capa_Modelo_CompraVenta\obj\Debug\Capa_Modelo_CompraVenta.csproj.AssemblyReference.cache
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\Menu_compraVenta\Capa_Modelo_CompraVenta\obj\Debug\Capa_Modelo_CompraVenta.csproj.CoreCompileInputs.cache
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\Menu_compraVenta\Capa_Modelo_CompraVenta\obj\Debug\Capa_Modelo_CompraVenta.dll
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\Menu_compraVenta\Capa_Modelo_CompraVenta\obj\Debug\Capa_Modelo_CompraVenta.pdb

@@ -1,0 +1,8 @@
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Factura\Capa_Vista_Factura\bin\Debug\Capa_Vista_Factura.dll
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Factura\Capa_Vista_Factura\bin\Debug\Capa_Vista_Factura.pdb
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Factura\Capa_Vista_Factura\obj\Debug\Capa_Vista_Factura.csproj.AssemblyReference.cache
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Factura\Capa_Vista_Factura\obj\Debug\Capa_Vista_Factura.Frm_Factura.resources
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Factura\Capa_Vista_Factura\obj\Debug\Capa_Vista_Factura.csproj.GenerateResource.cache
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Factura\Capa_Vista_Factura\obj\Debug\Capa_Vista_Factura.csproj.CoreCompileInputs.cache
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Factura\Capa_Vista_Factura\obj\Debug\Capa_Vista_Factura.dll
+C:\Users\overt\OneDrive\Escritorio\PRUEBA COMPILACION IS\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Factura\Capa_Vista_Factura\obj\Debug\Capa_Vista_Factura.pdb
