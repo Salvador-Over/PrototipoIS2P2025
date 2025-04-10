@@ -916,7 +916,7 @@
             this.Btn_MenuCatalogosOpcion5.Padding = new System.Windows.Forms.Padding(35, 0, 0, 0);
             this.Btn_MenuCatalogosOpcion5.Size = new System.Drawing.Size(222, 41);
             this.Btn_MenuCatalogosOpcion5.TabIndex = 4;
-            this.Btn_MenuCatalogosOpcion5.Text = "Lineas";
+            this.Btn_MenuCatalogosOpcion5.Text = "TIPO JUGADOR";
             this.Btn_MenuCatalogosOpcion5.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.Btn_MenuCatalogosOpcion5.UseVisualStyleBackColor = true;
             this.Btn_MenuCatalogosOpcion5.Click += new System.EventHandler(this.Btn_MenuCatalogosOpcion5_Click);
@@ -934,7 +934,7 @@
             this.Btn_MenuCatalogosOpcion4.Padding = new System.Windows.Forms.Padding(35, 0, 0, 0);
             this.Btn_MenuCatalogosOpcion4.Size = new System.Drawing.Size(222, 41);
             this.Btn_MenuCatalogosOpcion4.TabIndex = 3;
-            this.Btn_MenuCatalogosOpcion4.Text = "Marcas";
+            this.Btn_MenuCatalogosOpcion4.Text = "PUESTO";
             this.Btn_MenuCatalogosOpcion4.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.Btn_MenuCatalogosOpcion4.UseVisualStyleBackColor = true;
             this.Btn_MenuCatalogosOpcion4.Click += new System.EventHandler(this.Btn_MenuCatalogosOpcion4_Click);
@@ -952,7 +952,7 @@
             this.Btn_MenuCatalogosOpcion3.Padding = new System.Windows.Forms.Padding(35, 0, 0, 0);
             this.Btn_MenuCatalogosOpcion3.Size = new System.Drawing.Size(222, 41);
             this.Btn_MenuCatalogosOpcion3.TabIndex = 2;
-            this.Btn_MenuCatalogosOpcion3.Text = "Almacenes";
+            this.Btn_MenuCatalogosOpcion3.Text = "PAIS";
             this.Btn_MenuCatalogosOpcion3.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.Btn_MenuCatalogosOpcion3.UseVisualStyleBackColor = true;
             this.Btn_MenuCatalogosOpcion3.Click += new System.EventHandler(this.Btn_MenuCatalogosOpcion3_Click);
@@ -970,7 +970,7 @@
             this.Btn_MenuCatalogosOpcion2.Padding = new System.Windows.Forms.Padding(35, 0, 0, 0);
             this.Btn_MenuCatalogosOpcion2.Size = new System.Drawing.Size(222, 41);
             this.Btn_MenuCatalogosOpcion2.TabIndex = 1;
-            this.Btn_MenuCatalogosOpcion2.Text = "Locales";
+            this.Btn_MenuCatalogosOpcion2.Text = "ENTRENADOR";
             this.Btn_MenuCatalogosOpcion2.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.Btn_MenuCatalogosOpcion2.UseVisualStyleBackColor = true;
             this.Btn_MenuCatalogosOpcion2.Click += new System.EventHandler(this.btnMenuCatalogosOpcion2_Click_1);
@@ -988,7 +988,7 @@
             this.Btn_MenuCatalogosOpcion1.Padding = new System.Windows.Forms.Padding(35, 0, 0, 0);
             this.Btn_MenuCatalogosOpcion1.Size = new System.Drawing.Size(222, 60);
             this.Btn_MenuCatalogosOpcion1.TabIndex = 0;
-            this.Btn_MenuCatalogosOpcion1.Text = "Productos y Servicios";
+            this.Btn_MenuCatalogosOpcion1.Text = "EQUIPOS";
             this.Btn_MenuCatalogosOpcion1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.Btn_MenuCatalogosOpcion1.UseVisualStyleBackColor = true;
             this.Btn_MenuCatalogosOpcion1.Click += new System.EventHandler(this.btnMenuCatalogosOpcion1_Click);
